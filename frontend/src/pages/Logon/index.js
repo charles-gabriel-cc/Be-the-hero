@@ -1,5 +1,5 @@
 import React from 'react';
-import {FiLogIn} from '../../../../backend/node_modules/react-icons/fi'
+import {FiLogIn} from 'react-icons/fi';
 import './styles.css';
 
 import heroesImg from '../../assets/heroes.png';
